@@ -1,2 +1,2 @@
 #!/bin/bash
-lksjad
+chmod u+x hello
